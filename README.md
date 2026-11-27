@@ -41,7 +41,7 @@ Keterangan: ✅ Selesai · 🚧 Sedang dikerjakan · ⏳ Belum
 
 ## Progress Mingguan
 
-### Pertemuan 9 (6-11 November 2026)
+### Pertemuan 9 (12-18 November 2026)
 
 **Yang dikerjakan:**
 - Memilih tema (Bisnis) dan judul project KosKita
@@ -52,7 +52,7 @@ Keterangan: ✅ Selesai · 🚧 Sedang dikerjakan · ⏳ Belum
 
 ---
 
-### Pertemuan 10 (13-19 November 2026)
+### Pertemuan 10 (19-25 November 2026)
 
 **Yang dikerjakan:**
 - Menyusun SRS KosKita sesuai template (kebutuhan fungsional dan non-fungsional, antarmuka, model data)
@@ -64,7 +64,7 @@ Keterangan: ✅ Selesai · 🚧 Sedang dikerjakan · ⏳ Belum
 
 ---
 
-### Pertemuan 11 (rencana)
+### Pertemuan 11 (26 November - 2 Desember 2026)
 
 - Membuat struktur folder, lalu push SRS ke `docs/`
 - Setup database SQL Server dan project backend
