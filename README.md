@@ -17,7 +17,7 @@ KosKita adalah aplikasi mobile berbasis Jetpack Compose untuk membantu pemilik k
 
 - **Android:** Kotlin, Jetpack Compose, Navigation Compose, MVVM, Retrofit
 - **Backend:** ASP.NET Core Web API (REST API, JWT)
-- **Database:** SQL Server
+- **Database:** MySQL
 
 ## Status Fitur
 
